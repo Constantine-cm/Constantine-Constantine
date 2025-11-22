@@ -40,9 +40,9 @@ I'm an engineering enthusiast focused on bridging the gap between abstract mathe
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/GANTI_DENGAN_USERNAME_MU">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GANTI_DENGAN_USERNAME_MU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_DENGAN_USERNAME_MU&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/Constantine-cm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Constantine-cm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Constantine-cm&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
